@@ -21,8 +21,6 @@ Our results shed light on the impact of different choices in the configuration o
 -   **Dataset:** The dataset folder contains the raw data used in the study.
 -   **Jupyter Notebook:** The notebook, named "ICS_Honeypot_Latitudinal_Study.ipynb," replicates research questions 1 to 7.
 -   **Manual Analysis:** Research questions 8 to 10 were addressed manually, and details can be found in the paper.
--   **Installation Guide:** Follow the instructions in the "Installation_Guide.md" file for setting up the required environment.
--   **Usage Guide:** Refer to the "Usage_Guide.md" file for executing the Jupyter notebook and interpreting the results.
 
 ## How to Use the Jupyter Notebook
 
